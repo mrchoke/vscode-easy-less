@@ -2,7 +2,7 @@
   "name": "easy-less",
   "displayName": "Easy LESS",
   "description": "Auto-compile LESS to CSS on save",
-  "version": "1.4.5",
+  "version": "1.4.5.1",
   "publisher": "mrcrowl",
   "engines": {
     "vscode": "^1.6.0"
@@ -106,7 +106,7 @@
     "theme": "dark"
   },
   "dependencies": {
-    "less": "2.7.2",
+    "less": "^3.0.0",
     "mkpath": "^1.0.0",
     "less-plugin-autoprefix": "^1.5.1"
   },
